@@ -6,6 +6,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
