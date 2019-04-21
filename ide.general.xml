@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="browserPath" value="D:\SoftwareInstall\install\liebao\liebao.exe" />
+    <option name="browserPath" value="C:\software\install\liebao\liebao.exe" />
     <option name="reopenLastProject" value="false" />
     <option name="useDefaultBrowser" value="false" />
   </component>
