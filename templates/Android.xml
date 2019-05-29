@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="tag" value="public static final String TAG = &quot;$className$-TAG&quot;;" description="create a TAG" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
