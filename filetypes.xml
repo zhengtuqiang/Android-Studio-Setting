@@ -5,6 +5,7 @@
       <mapping ext="asta" type="Native" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
