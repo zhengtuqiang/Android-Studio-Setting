@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="cn-jscu1.qwqjsq.top" />
+    <option name="PROXY_PORT" value="9910" />
+  </component>
+</application>
