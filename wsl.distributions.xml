@@ -39,6 +39,12 @@
           <presentable-name>openSUSE Leap 15</presentable-name>
         </descriptor>
         <descriptor>
+          <id>OPENSUSE15-1</id>
+          <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
+          <executable-path>openSUSE-Leap-15-1.exe</executable-path>
+          <presentable-name>openSUSE Leap 15.1</presentable-name>
+        </descriptor>
+        <descriptor>
           <id>UBUNTU</id>
           <microsoft-id>Ubuntu</microsoft-id>
           <executable-path>ubuntu.exe</executable-path>
@@ -73,6 +79,12 @@
           <microsoft-id>WLE</microsoft-id>
           <executable-path>wle.exe</executable-path>
           <presentable-name>Pengwin Enterprise</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>ARCH</id>
+          <microsoft-id>Arch</microsoft-id>
+          <executable-path>Arch.exe</executable-path>
+          <presentable-name>Arch Linux</presentable-name>
         </descriptor>
       </set>
     </descriptors>
