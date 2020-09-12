@@ -5,4 +5,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
